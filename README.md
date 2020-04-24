@@ -1,5 +1,5 @@
 github   https://github.com/yuelinghunyu/blog-demo
-
+form https://juejin.im/post/5daef8b6e51d4524e60e0f6a
 
 工作中用到video标签做视频播放器，一开始用 video.js 插件代替，如果只用这个插件进行简单的播放视频，是不是有点浪费，而且这个插件用 webpack 打包后 vendor.js 会很大，所以本文实现一个基于HTML5标签video的自定义视频播放器。其中实现了播放暂停、进度拖拽、音量控制及全屏等功能
 ### 一、效果预览  
